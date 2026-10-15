@@ -6,4 +6,4 @@ Tirosha Tools is a Windows desktop application.
 Download the installer from the Releases page.
 
 ## Version
-Current initial release: 1.0.0
+Current initial release: 1.0.2
